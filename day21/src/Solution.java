@@ -16,6 +16,7 @@ public class Solution {
                 chars[i] = characters.pop();
             }
         }
+        System.out.println("Hello,git");
         return new String(chars);
     }
 }
